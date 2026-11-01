@@ -1,0 +1,7 @@
+Meeting: Product Ideas
+Date: 2026-10-27
+Asha: We could add dark mode to the customer portal.
+Ben: Another possibility is a mobile app.
+Asha: Both are interesting. Let's collect feedback before choosing.
+Ben: Maybe we should target December.
+Asha: No timeline decision today. We will revisit after user interviews.

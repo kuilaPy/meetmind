@@ -1,0 +1,10 @@
+Meeting: Mobile Release Readiness
+Date: 2026-10-29
+Priya: We agreed to release the beta to the internal group on November 5.
+Leo: I will finish the crash fixes by November 2.
+Priya: Thanks. Sara, can you complete the accessibility pass by November 3?
+Sara: Yes, I will complete it by November 3.
+Leo: The analytics event names are still unclear. Who owns that?
+Priya: We have not assigned an owner. Let's confirm the event naming with Data first.
+Sara: Does the beta include tablet layouts?
+Priya: Open question. Product needs to confirm.

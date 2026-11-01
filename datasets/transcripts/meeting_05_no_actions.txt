@@ -1,0 +1,7 @@
+Meeting: Monthly Research Share-out
+Date: 2026-10-30
+Eli: The interviews suggest that onboarding language is confusing.
+Noor: I noticed the same pattern in support tickets.
+Eli: This is useful context. We are not deciding on a redesign today.
+Noor: Agreed. We need more evidence before changing the flow.
+Eli: Let's close here. No tasks are assigned in this meeting.

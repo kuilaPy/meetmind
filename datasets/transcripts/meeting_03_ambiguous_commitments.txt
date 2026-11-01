@@ -1,0 +1,7 @@
+Meeting: Website Refresh
+Date: 2026-10-28
+Nina: The landing page needs a clearer pricing section.
+Omar: I could probably take a first pass next week, depending on the launch work.
+Nina: Let's not assign that yet. We need to check capacity.
+Omar: We also need legal to review the claims.
+Nina: Yes, legal review is required before publication, but nobody from legal is here.
